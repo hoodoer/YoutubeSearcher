@@ -7,7 +7,7 @@
 # 
 # Contact for help:
 # @hoodoer
-# drew.kirkpatrick@gmail.com
+# hoodoer@bitwisemunitions.dev
 
 
 import argparse

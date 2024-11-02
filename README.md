@@ -5,7 +5,7 @@ You can setup an exclude file to leave out youtube videos you've received in pre
 
 You should install Python virtual environments to isolate the libraries. 
 
-Example:
+## Install
 ```
 mkdir YoutubeSearcher
 python3 -m venv YoutubeSearcher
@@ -19,3 +19,7 @@ chmod +x youtubeSearch.py
 ```
 
 Directions for configuration are in the example configuration file. 
+
+## Contact
+@hoodoer<br>
+hoodoer@bitwisemunitions.dev
